@@ -3,12 +3,12 @@
 I'm a passionate Data Scientist based in Nairobi, Kenya, with a keen interest in Data Engineering. 🌱 Let's dive into the world of ML Engineering!
 
 - 📚 I'm always learning striving to make a positive impact in the world.
-- 📧 You can reach me at: [brian@example.com](mailto:brian@example.com)
 
-## Connect with Me
+
+##  📧Connect with Me
 
 - LinkedIn: [Brian Nyagah](https://www.linkedin.com/in/brian-nyagah-445323239/)
-- gmail: [nyagahbrian@gmail.com]
+- Gmail: [nyagahbrian@gmail.com]
 - phone: [+254701841040]
 
 ## Languages and Tools
